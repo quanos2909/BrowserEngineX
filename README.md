@@ -2,7 +2,9 @@
 
 # About
 BrowserEngineX is an advanced Browser Engine app for QuanOS Browser
-:white_check_mark: **Features**: no ads | SponsorBlock | adjustable playback speed | 4k and higher | 60fps | HDR | does not require Google Services | helpful international community
+:white_check_mark: **Features**:
+like this advanced features
+-Change User Agent
 
 :x: **Disadvantages**: no live chat | no comments
 stability, voice search and casting support **might** be worse than in the official YouTube, depending on your device
